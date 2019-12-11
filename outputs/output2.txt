@@ -1,0 +1,4 @@
+Dive time: 26 minutes
+Maximum Depth: 60.2027 feet
+Average Heart Rate: 107.556 BPM
+Average Temperature: 62 Farenheit

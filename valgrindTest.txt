@@ -1,0 +1,1 @@
+valgrind --tool=memcheck --leak-check=yes ./buhlmann inputs/input1.txt outputs/output1.txt tests/test1.txt
